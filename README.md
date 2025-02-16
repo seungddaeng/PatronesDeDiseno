@@ -7,7 +7,7 @@ Esta sección incluye la práctica de interfaces con 10 escenarios distintos, ca
 2. [Sistema de Gestión de Pedidos para un Restaurante](src/practicaInterfaces/pedidosRestauranteInterface)  
 3. [Red Social con Interacciones](src/practicaInterfaces/redSocialInterface)  
 4. [Sistema de Pago y Facturación para una Empresa](src/practicaInterfaces/pagoFacturacionInterface)  
-5. [Plataforma de Aprendizaje Online](src/practicaInterfaces/aprendizajeOnlineInterface)  
+5. [Plataforma de Aprendizaje Online](src/practicaInterfaces/apredizajeOnlineInterface)  
 6. [Plataforma de Transporte Urbano](src/practicaInterfaces/transporteUrbanoInterface)  
 7. [Sistema de Inventario para un Almacén](src/practicaInterfaces/inventarioAlmacenInterface)  
 8. [Sistema de Gestión de Empleados en una Empresa](src/practicaInterfaces/gestionEmpleadosInterface)  
