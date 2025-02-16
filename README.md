@@ -1,6 +1,6 @@
 # Patrones De Diseño
 Este repositorio contiene mis tareas y prácticas de la materia Patrones de Diseño. Aquí encontrarás implementaciones de diferentes escenarios aplicando principios de diseño de software.
-## 📌 [Práctica de Interfaces](practicaInterfaces)  
+## 📌 [Práctica de Interfaces](src/practicaInterfaces)  
 Esta sección incluye la práctica de interfaces con 10 escenarios distintos, cada uno organizado en su propia carpeta con sus respectivas implementaciones:  
 
 1. [Plataforma de Streaming de Contenidos](streamingInterface)
